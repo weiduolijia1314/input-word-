@@ -1,0 +1,6 @@
+spring:
+           datasource:
+             driver-class-name: com.mysql.cj.jdbc.Driver
+             username: mysqltest
+             password: jkx++321
+             url: jdbc:mysql://8.129.166.181:3306/mysqltest?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
